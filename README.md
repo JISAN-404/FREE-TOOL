@@ -26,7 +26,5 @@ cd FREE-TOOL
 
 python Old_Crack.py
 
-For Username And Password..!! 
-Contact With Me.My fb page... Link👇
-
-https://www.facebook.com/profile.php?id=100076321219909
+Tool UserName : MrDark
+Tool PassWord : MNJ
