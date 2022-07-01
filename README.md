@@ -24,7 +24,7 @@ git clone https://github.com/JISAN-404/FREE-TOOL
 
 cd FREE-TOOL
 
-python Old_Crack.py
+python Old-Crack.py
 
 # Tool UserName : MrDark
 
